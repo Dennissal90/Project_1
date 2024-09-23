@@ -1,0 +1,6 @@
+Destination,Airline A Delay (mins),Airline B Delay (mins)
+New York,12,7
+Los Angeles,5,-2
+Chicago,-3,15
+Houston,8,3
+Phoenix,4,-1
